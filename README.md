@@ -2,7 +2,9 @@
 
 PulseDash is a modern, responsive, dark-mode-ready analytics dashboard UI built with **Tailwind CSS**, **Lucide Icons**, and **ApexCharts**. It features clean vector charts, quick KPI overview metrics, interactive dark/light mode toggling, and a recent transaction table.
 
-![PulseDash Dashboard Preview](https://img.shields.org/badge/Status-Active-brightgreen)
+<p align="center">
+  <img src="assets/preview.jpg" alt="Project Preview" width="600">
+</p>
 ![License](https://img.shields.org/badge/License-MIT-blue.svg)
 
 ---
