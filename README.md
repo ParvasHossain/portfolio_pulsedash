@@ -5,7 +5,7 @@ PulseDash is a modern, responsive, dark-mode-ready analytics dashboard UI built 
 <p align="center">
   <img src="assets/preview.jpg" alt="Project Preview" width="600">
 </p>
-![License](https://img.shields.org/badge/License-MIT-blue.svg)
+
 
 ---
 
